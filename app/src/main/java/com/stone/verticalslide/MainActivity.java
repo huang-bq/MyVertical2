@@ -19,7 +19,7 @@ public class MainActivity extends FragmentActivity {
 		setContentView(R.layout.activity_main);
 		initView();
 //		sddfs
-//		test tstdsfsfdf
+//		test tstdsfsfdf gj
 	}
 
 	/**
