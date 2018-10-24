@@ -48,11 +48,14 @@ public class DragLayout extends ViewGroup {
 				new YScrollDetector());
 	}
 
+	@SuppressLint("MissingSuperCall")
 	@Override
 	protected void onFinishInflate() {
 		// 跟findviewbyId一样，初始化上下两个view
+		super.onFinishInflate();
 		frameView1 = getChildAt(0);
 		frameView2 = getChildAt(1);
+//		changeGitHubTest
 	}
 
 	class YScrollDetector extends SimpleOnGestureListener {
