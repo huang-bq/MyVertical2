@@ -55,7 +55,7 @@ public class DragLayout extends ViewGroup {
 		super.onFinishInflate();
 		frameView1 = getChildAt(0);
 		frameView2 = getChildAt(1);
-//		changeGitHubTest
+//		changeGitHubTestssss  qqq
 	}
 
 	class YScrollDetector extends SimpleOnGestureListener {
