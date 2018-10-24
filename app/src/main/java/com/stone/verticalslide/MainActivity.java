@@ -18,7 +18,8 @@ public class MainActivity extends FragmentActivity {
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.activity_main);
 		initView();
-//		test
+//		sddfs
+//		test tstdsfsfdf
 	}
 
 	/**
