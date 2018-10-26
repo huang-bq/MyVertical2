@@ -10,7 +10,8 @@ public class CustListView extends ListView {
 	boolean allowDragTop = true; // 如果是true，则允许拖动至底部的下一页
 	float downY = 0;
 	boolean needConsumeTouch = true; // 是否需要承包touch事件，needConsumeTouch一旦被定性，则不会更改
-//dfs
+//    sfj
+//dfsrwedfafdsfasdaf
 
 	public CustListView(Context arg0) {
 		this(arg0, null);
